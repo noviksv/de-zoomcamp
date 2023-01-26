@@ -1,3 +1,5 @@
 data/
 paostgres_data/
 1_basics/homework/README.md
+.terraform*
+terraform.tfstate*
