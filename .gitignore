@@ -3,3 +3,4 @@ paostgres_data/
 1_basics/homework/README.md
 .terraform*
 terraform.tfstate*
+2_workflow_orchestration/homework/README.md
